@@ -1287,3 +1287,13 @@ http://42.98.239.149:9981/stream/channelid/487833512
 http://42.98.239.149:9981/stream/channelid/704909020
 #EXTINF:-1 ,National Geographic
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+#EXTINF:-1 ,01-EB-Jamuna
+http://tv.ebox.live:8080/live/ex-jamuna.m3u8
+#EXTINF:-1 ,02-EB-CH-24
+http://tv.ebox.live:8080/live/ch24youtube.m3u8
+#EXTINF:-1 ,03-EB-Gazi-tv
+http://tv.ebox.live:8080/live/gazi-tv.m3u8
+#EXTINF:-1 ,04-EB-Bangla Vision
+http://tv.ebox.live:8080/live/banae3.m3u8
+
+
