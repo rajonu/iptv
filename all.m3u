@@ -27,8 +27,6 @@ http://tv.ebox.live:8080/live/ex-atnae.m3u8
 http://tv.ebox.live:8080/live/gan.m3u8
 #EXTINF:-1 ,Maasranga TV
 http://tv.ebox.live:8080/live/maasranga.m3u8
-#EXTINF:-1 ,Maasranga TV
-http://tv.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1 ,Channel9
 http://tv.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1 ,SonySix
