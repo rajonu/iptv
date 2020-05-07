@@ -81,8 +81,6 @@ http://tv.ebox.live:8080/live/discovery.m3u8
 http://tv.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:-1 ,National Geography HD
 http://tv.ebox.live:8080/live/natg.m3u8
-#EXTINF:-1 ,Al Jazeera HD
-https://edge4.bioscopelive.com/hls/anonymous/yq2IKUeTou6Z42NbkNRczg/1588756822/al_jazeera.m3u8
 #EXTINF:-1 ,Somoy TV HD
 http://10.16.100.203:8082/bangla/somoy.m3u8
 #EXTINF:-1 ,Gazi tv
