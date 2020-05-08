@@ -1,87 +1,87 @@
 #EXTM3U
-#EXTINF:0,Channel 2
+#EXTINF:-1 ,Jamuna TV
 http://tv.ebox.live:8080/live/ex-jamuna.m3u8
-#EXTINF:0,Channel 3
+#EXTINF:-1 ,Channel24
 http://tv.ebox.live:8080/live/ch24youtube.m3u8
-#EXTINF:0,Channel 4
+#EXTINF:-1 ,Gazi tv
 http://tv.ebox.live:8080/live/gazi-tv.m3u8
-#EXTINF:0,Channel 5
+#EXTINF:-1 ,Bangla Vision
 http://tv.ebox.live:8080/live/banae3.m3u8
-#EXTINF:0,Channel 6
+#EXTINF:-1 ,ATN Bangla
 http://tv.ebox.live:8080/live/atnbd1.m3u8
-#EXTINF:0,Channel 7
+#EXTINF:-1 ,Channel I
 http://tv.ebox.live:8080/live/chi.m3u8
-#EXTINF:0,Channel 8
+#EXTINF:-1 ,RTV
 http://tv.ebox.live:8080/live/rtv.m3u8
-#EXTINF:0,Channel 9
+#EXTINF:-1 ,Boishakhi Television
 http://tv.ebox.live:8080/live/boishakhi.m3u8
-#EXTINF:0,Channel 10
+#EXTINF:-1 ,Ekattor TV
 http://tv.ebox.live:8080/live/ekattor1.m3u8
-#EXTINF:0,Channel 11
+#EXTINF:-1 ,News 24 HD
 http://tv.ebox.live:8080/live/news24.m3u8
-#EXTINF:0,Channel 12
+#EXTINF:-1 ,DBC News
 http://tv.ebox.live:8080/live/dbc.m3u8
-#EXTINF:0,Channel 13
+#EXTINF:-1 ,ATN News
 http://tv.ebox.live:8080/live/ex-atnae.m3u8
-#EXTINF:0,Channel 14
+#EXTINF:-1 ,Gaan Bangla
 http://tv.ebox.live:8080/live/gan.m3u8
-#EXTINF:0,Channel 15
+#EXTINF:-1 ,Maasranga TV
 http://tv.ebox.live:8080/live/maasranga.m3u8
-#EXTINF:0,Channel 16
+#EXTINF:-1 ,Channel9
 http://tv.ebox.live:8080/live/channel9.m3u8
-#EXTINF:0,Channel 17
+#EXTINF:-1 ,SonySix
 http://tv.ebox.live:8080/live/sonysix.m3u8
-#EXTINF:0,Channel 18
+#EXTINF:-1 ,SonyTen
 http://tv.ebox.live:8080/live/sonyten-1.m3u8
-#EXTINF:0,Channel 19
+#EXTINF:-1 ,SonyTen-3 HD
 http://tv.ebox.live:8080/live/sonyten-3.m3u8
-#EXTINF:0,Channel 20
+#EXTINF:-1 ,Ten Sports
 http://tv.ebox.live:8080/live/ten-sports.m3u8
-#EXTINF:0,Channel 21
+#EXTINF:-1 ,Zee Bangla
 http://tv.ebox.live:8080/live/zee-bangla.m3u8
-#EXTINF:0,Channel 22
+#EXTINF:-1 ,Star Jalsha
 http://tv.ebox.live:8080/live/star-jalsha.m3u8
-#EXTINF:0,Channel 23
+#EXTINF:-1 ,Colors Bangla
 http://tv.ebox.live:8080/live/colors-bangla.m3u8
-#EXTINF:0,Channel 24
+#EXTINF:-1 ,Zee Cinema Bangla
 http://tv.ebox.live:8080/live/zee-cinema-bangla.m3u8
-#EXTINF:0,Channel 25
+#EXTINF:-1 ,Star Jalsha Movie
 http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
-#EXTINF:0,Channel 26
+#EXTINF:-1 ,Star Plus HD
 http://tv.ebox.live:8080/live/star-plus.m3u8
-#EXTINF:0,Channel 27
+#EXTINF:-1 ,Zee TV HD
 http://tv.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:0,Channel 28
+#EXTINF:-1 ,Colors HD
 http://tv.ebox.live:8080/live/colors.m3u8
-#EXTINF:0,Channel 29
+#EXTINF:-1 ,Sony HD
 http://tv.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:0,Channel 30
+#EXTINF:-1 ,Sony SUB HD
 http://tv.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:0,Channel 31
+#EXTINF:-1 ,Star Gold Select
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
-#EXTINF:0,Channel 32
+#EXTINF:-1 ,Zee Cinema HD
 http://tv.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:0,Channel 33
+#EXTINF:-1 ,Sony Max HD
 http://tv.ebox.live:8080/live/sony-max.m3u8
-#EXTINF:0,Channel 34
+#EXTINF:-1 ,Sony Max2 HD
 http://tv.ebox.live:8080/live/sony-max-2.m3u8
-#EXTINF:0,Channel 35
+#EXTINF:-1 ,Star Movies HD
 http://tv.ebox.live:8080/live/star-movies.m3u8
-#EXTINF:0,Channel 36
+#EXTINF:-1 ,Sony PIX HD
 http://tv.ebox.live:8080/live/sony-pix.m3u8
-#EXTINF:0,Channel 37
+#EXTINF:-1 ,HBO HD
 http://tv.ebox.live:8080/live/hbo.m3u8
-#EXTINF:0,Channel 38
+#EXTINF:-1 ,Colors Infinity HD
 http://tv.ebox.live:8080/live/color-Infinity.m3u8
-#EXTINF:0,Channel 39
+#EXTINF:-1 ,Nick HD
 http://tv.ebox.live:8080/live/nick.m3u8
-#EXTINF:0,Channel 40
+#EXTINF:-1 ,Discovery HD
 http://tv.ebox.live:8080/live/discovery.m3u8
-#EXTINF:0,Channel 41
+#EXTINF:-1 ,Animal Planet HD
 http://tv.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:0,Channel 42
+#EXTINF:-1 ,National Geography HD
 http://tv.ebox.live:8080/live/natg.m3u8
-#EXTINF:0,Channel 43
+#EXTINF:-1 ,Somoy TV HD
 http://10.16.100.203:8082/bangla/somoy.m3u8
 #EXTINF:-1 ,Gazi tv
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
