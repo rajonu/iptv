@@ -55,6 +55,54 @@ https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 ,Channel9
 http://tv.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1 ,Somoy TV HD
+http://10.16.100.203:8082/bangla/somoy.m3u8
+#EXTINF:-1 ,Somoy News
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+#EXTINF:-1 ,Banglavision TV
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:-1 ,BTV World
+https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+#EXTINF:-1 ,Channel 9
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:-1 ,Desh TV
+https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:-1 ,Desh TV
+https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+#EXTINF:-1 ,Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-1 ,Duronto TV
+https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+#EXTINF:-1 ,Ekushey TV
+https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:-1 ,Independent TV
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#EXTINF:-1 ,NTV
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:-1 ,NTV
+https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+#EXTINF:-1 ,NTV (UK Time)
+https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
+#EXTINF:-1 ,NTV (US Pacific Time)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 ,Nagorik TV
+https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+#EXTINF:-1 ,Nagorik TV
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
+#EXTINF:-1 ,SA TV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:-1 ,SA TV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:-1 ,Channel 24
+https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1 ,Channel 24
+https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1 ,Colour Bangla
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 ,IN: Star Movie HD
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 ,Sony Six
@@ -179,10 +227,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 ,Nat Geo Wild (Asia)
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
-#EXTINF:-1 ,Somoy TV HD
-http://10.16.100.203:8082/bangla/somoy.m3u8
-#EXTINF:-1 ,Somoy News
-https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 ,D sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 ,NetGeo People
@@ -203,50 +247,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?
 https://a.jsrdn.com/broadcast/j4jhsgg89/c.m3u8
 #EXTINF:-1 ,Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 ,Banglavision TV
-https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 ,BTV World
-https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 ,Channel 9
-https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 ,Deepto TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 ,Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 ,Desh TV
-https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1 ,Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1 ,Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1 ,Duronto TV
-https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1 ,Ekushey TV
-https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 ,Independent TV
-https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1 ,NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 ,NTV
-https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 ,NTV (UK Time)
-https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
-#EXTINF:-1 ,NTV (US Pacific Time)
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-#EXTINF:-1 ,Nagorik TV
-https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 ,Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 ,SA TV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 ,SA TV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 ,Channel 24
-https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 ,Channel 24
-https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 ,Colour Bangla
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 ,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 ,B4U Music
