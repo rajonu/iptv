@@ -95,24 +95,14 @@ https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 ,SA TV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 ,SA TV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:-1 ,Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1 ,Channel 24
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1 ,Peace TV Bangla
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 ,Colour Bangla
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-#EXTINF:-1 ,IN: Star Movie HD
-http://175.41.46.16:8081/hls/2.m3u8
-#EXTINF:-1 ,Sony Six
-http://tv.ebox.live:8080/live/sonysix.m3u8
-#EXTINF:-1 ,IN: SONY SIX HD
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 ,SonyTen
-http://tv.ebox.live:8080/live/sonyten-1.m3u8
-#EXTINF:-1 ,SonyTen-3 HD
-http://tv.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1 ,Zee Bangla
 http://tv.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,Zee Bangla
@@ -121,6 +111,66 @@ http://livecdnh1.tvanywhere.ae/hls/zee_bangla/04.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 ,Zee Bangla HD
 http://103.58.73.26/streams/107/index.m3u8
+#EXTINF:-1 ,Iqra Bangla
+https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
+#EXTINF:-1 ,ATN Islamic TV
+http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1 ,Madani TV Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 ,Ananda TV
+http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
+#EXTINF:-1 ,ETV
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:-1 ,Nick Bangla
+http://103.115.159.69:25461/live/asifmtbsl/asifmtbsl/87.m3u8
+#EXTINF:-1 ,Nick Sonic Bangla
+https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
+#EXTINF:-1 ,Nick JR.
+https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:-1 ,IN: Star Movie HD
+http://175.41.46.16:8081/hls/2.m3u8
+#EXTINF:-1 ,IN: SONY SIX HD
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ,IN: SONY SAB HD
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,IN: SONY SAB
+http://103.205.133.19/hls/sonysab.m3u8
+#EXTINF:-1 ,IN: SONY MAX HD (VPN)
+http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
+#EXTINF:-1 ,IN: SONY MAX
+https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,IN: SONY MAX HD
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,IN: SONY MIX (VPN)
+http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
+#EXTINF:-1 ,IN: SONY PIX HD
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,IN: SONY PIX
+http://103.205.133.19/hls/sonypix.m3u8
+#EXTINF:-1 ,IN: SONY TV HD (VPN)
+http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
+#EXTINF:-1 ,IN: SONY TV HD
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,IN: SONY BBC EARTH HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,IN: SONY YAY
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,IN: SONY TEN 3 HD
+http://175.41.46.16:8081/hls/8.m3u8
+#EXTINF:-1 ,IN: SONY TEN 3
+http://103.205.133.19/hls/ten3.m3u8
+#EXTINF:-1 ,IN: SONY TEN 3 HD
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ,IN: SONY AATH
+http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
+#EXTINF:-1 ,UK: SONY TEN 2
+https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
+#EXTINF:-1 ,Sony Six
+http://tv.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1 ,SonyTen
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1 ,SonyTen-3 HD
+http://tv.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1 ,Star Jalsha
 http://tv.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 ,Star Jalsha
@@ -153,10 +203,6 @@ https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 http://tv.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 ,Sony SAB HD
 http://tv.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:-1 ,IN: SONY SAB HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,IN: SONY SAB
-http://103.205.133.19/hls/sonysab.m3u8
 #EXTINF:-1 ,Star Gold Select
 http://tv.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1 ,STAR GOLD
@@ -179,18 +225,8 @@ http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 ,Sony Max 2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-#EXTINF:-1 ,IN: SONY MAX HD (VPN)
-http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
-#EXTINF:-1 ,IN: SONY MAX
-https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,IN: SONY MAX HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,IN: SONY MIX (VPN)
-http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 #EXTINF:-1 ,Sony Mix
 http://216.144.250.174/Sony_Mix_HD/track-v1a1/mono.m3u8
-#EXTINF:-1 ,IN: SONY MIX
-https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ,Star Movies HD
 http://tv.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:-1 ,Star Movies HD Middle East
@@ -201,10 +237,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/04.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1 ,Sony PIX HD
 http://tv.ebox.live:8080/live/sony-pix.m3u8
-#EXTINF:-1 ,IN: SONY PIX HD
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,IN: SONY PIX
-http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:-1 ,HBO HD
 http://tv.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 ,Colors Infinity HD
@@ -395,7 +427,7 @@ http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 ,Nethra TV
 http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
-#EXTINF:-1 ,News 24
+#EXTINF:-1 ,News 24 in
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 ,News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
@@ -491,8 +523,6 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
 #EXTINF:-1 ,Channel Win
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1 ,Peace TV Bangla
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 ,Assam Talks
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 ,Star Bharat
@@ -928,62 +958,16 @@ https://stream.simpaisa.com/pitvlive2/discovery_360p/playlist.m3u8
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 ,Channel-S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
-#EXTINF:-1 ,Iqra Bangla
-https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
-#EXTINF:-1 ,ATN Islamic TV
-http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
-#EXTINF:-1 ,Madani TV Bangla
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-#EXTINF:-1 ,Ananda TV
-http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
-#EXTINF:-1 ,ETV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 ,Nick Bangla
-http://103.115.159.69:25461/live/asifmtbsl/asifmtbsl/87.m3u8
-#EXTINF:-1 ,Nick Sonic Bangla
-https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
-#EXTINF:-1 ,Nick JR.
-https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 #EXTINF:-1 ,CBS News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 ,Ragam TV
 http://account11.livebox.co.in/ntvhls/ntv.m3u8
-#EXTINF:-1 ,IN: SONY TV HD (VPN)
-http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
-#EXTINF:-1 ,IN: SONY TV HD
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,IN: SONY BBC EARTH HD
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,IN: SONY YAY
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:-1 ,UK: SONY TEN 2
-https://sony247channels.akamaized.net/hls/live/2004808/SonyTen2SD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 ,IN: SONY ESPN
-https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-#EXTINF:-1 ,IN: SONY TEN 1 HD
-http://175.41.46.16:8081/hls/6.m3u8
-#EXTINF:-1 ,IN: SONY TEN 2 HD
-http://175.41.46.16:8081/hls/7.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT / MOVIES CHANNELS",SONY MAX (IN)
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
-#EXTINF:-1 ,IN: SONY TEN 3 HD
-http://175.41.46.16:8081/hls/8.m3u8
-#EXTINF:-1 ,IN: SONY TEN 3
-http://103.205.133.19/hls/ten3.m3u8
-#EXTINF:-1 ,IN: SONY TEN 3 HD
-https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 ,UK: SONY TV
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,IN: SONY TEN 1
-http://103.205.133.19/hls/ten1.m3u8
-#EXTINF:-1 ,IN: SONY TEN 2
-http://103.205.133.19/hls/ten2.m3u8
-#EXTINF:-1 ,IN: SONY TV HD
-http://channels.ooguy.com:80/auth?channel=SonyTvHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 ,UK: SONY TV HD
 http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 ,IN: SONY AATH
-http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
 #EXTINF:-1 ,USA: SONY TV HD
 http://ok2.se:8000/live/e4f1F1Uvb5cccME2H/7deeF1UDa6PNxFp03/407.m3u8
 #EXTINF:-1 ,Sony Crime
