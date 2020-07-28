@@ -1,16 +1,4 @@
 #EXTM3U
-
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:1704
-#EXTINF:6,
-l_63079_10267480_1704.ts?nimblesessionid=8882713
-#EXTINF:6,
-l_63079_10273480_1705.ts?nimblesessionid=8882713
-#EXTINF:6,
-l_63079_10279480_1706.ts?nimblesessionid=8882713
-#EXTINF:6,
-l_63079_10285480_1707.ts?nimblesessionid=8882713
 #EXTINF:-1 ,Jamuna TV
 http://tv.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,Jamuna TV
