@@ -3,8 +3,6 @@
 http://tvserver.dflix.live:8082/1/index.m3u8
 #EXTINF:-1 ,dflix-2
 http://tvserver.dflix.live:8082/13/index.m3u8
-#EXTINF:-1 ,dflix-3
-http://tvserver.dflix.live:8082/17/index.m3u8?token=1d5890dc85fc33da195278678b8367d309e25ff5-b1cbec60349e161577cbd73d089f3638-1595944051-1595933251&remote=59.153.101.89
 #EXTINF:-1 ,Jamuna TV
 http://tv.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,Jamuna TV
@@ -61,6 +59,8 @@ https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 ,Channel9
 http://tv.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1 ,Somoy TV
+http://tvserver.dflix.live:8082/17/index.m3u8?token=1d5890dc85fc33da195278678b8367d309e25ff5-b1cbec60349e161577cbd73d089f3638-1595944051-1595933251&remote=59.153.101.89
 #EXTINF:-1 ,Somoy TV HD
 http://10.16.100.203:8082/bangla/somoy.m3u8
 #EXTINF:-1 ,Somoy News
