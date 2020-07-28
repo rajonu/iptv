@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,nick
+https://edge4.bioscopelive.com/hls/anonymous/41l57q6GR-5PmkkWymU8zg/1595944827/nickelodeon.m3u8
 #EXTINF:-1 ,Jamuna TV
 http://tv.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,Jamuna TV
