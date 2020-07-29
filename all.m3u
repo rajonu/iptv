@@ -7,39 +7,41 @@ https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1 ,Channel24
 http://tv.ebox.live:8080/live/ch24youtube.m3u8
-#EXTINF:-1 ,Gazi tv
+#EXTINF:-1 ,Gazi tv-ebox
 http://tv.ebox.live:8080/live/gazi-tv.m3u8
-#EXTINF:-1 ,Gazi tv
+#EXTINF:-1 ,Gazi tv-digi
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 ,Bangla Vision
+#EXTINF:-1 ,Bangla Vision-ebox
 http://tv.ebox.live:8080/live/banae3.m3u8
-#EXTINF:-1 ,ATN Bangla
+#EXTINF:-1 ,ATN Bangla-ebox
 http://tv.ebox.live:8080/live/atnbd1.m3u8
-#EXTINF:-1 ,ATN Bangla
+#EXTINF:-1 ,ATN Bangla-digi
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 ,Channel I
+#EXTINF:-1 ,Channel I-ebox
 http://tv.ebox.live:8080/live/chi.m3u8
-#EXTINF:-1 ,Channel I
+#EXTINF:-1 ,Channel I-digi
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 ,RTV
+#EXTINF:-1 ,RTV-ebox
 http://tv.ebox.live:8080/live/rtv.m3u8
-#EXTINF:-1 ,RTV
+#EXTINF:-1 ,RTV-digi
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1 ,Boishakhi Television
+#EXTINF:-1 ,Boishakhi Television-ebox
 http://tv.ebox.live:8080/live/boishakhi.m3u8
-#EXTINF:-1 ,Boishakhi TV
+#EXTINF:-1 ,Boishakhi TV-digi
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 ,Ekattor TV
+#EXTINF:-1 ,Ekattor TV-ebox
 http://tv.ebox.live:8080/live/ekattor1.m3u8
-#EXTINF:-1 ,Ekattor TV
+#EXTINF:-1 ,Ekattor TV-digi
 https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-#EXTINF:-1 ,News 24 HD
+#EXTINF:-1 ,News 24 HD-digi-digi
+https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#EXTINF:-1 ,News 24 HD-ebox
 http://tv.ebox.live:8080/live/news24.m3u8
-#EXTINF:-1 ,DBC News
+#EXTINF:-1 ,DBC News-ebox
 http://tv.ebox.live:8080/live/dbc.m3u8
-#EXTINF:-1 ,DBC News
+#EXTINF:-1 ,DBC News-digi
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 ,ATN News
+#EXTINF:-1 ,ATN News-ebox
 http://tv.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1 ,ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
@@ -63,6 +65,8 @@ http://10.16.100.203:8082/bangla/somoy.m3u8
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 #EXTINF:-1 ,Banglavision TV
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+#EXTINF:-1 ,Sangsad TV
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 #EXTINF:-1 ,BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:-1 ,Channel 9
@@ -97,10 +101,12 @@ https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 ,SA TV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 ,Channel 24
+#EXTINF:-1 ,Channel 24-digi
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 ,Channel 24
+#EXTINF:-1 ,Channel 240-digi-edg
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+#EXTINF:-1 ,Channel 24-ibox
+http://103.135.208.14/live/ibox/bd/21.m3u8
 #EXTINF:-1 ,Peace TV Bangla
 https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 ,Colour Bangla
@@ -123,14 +129,22 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 http://appcdn.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
 #EXTINF:-1 ,ETV
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 ,Nick HD
+#EXTINF:-1 ,Nickelodeon HD -digi
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 ,Nick HD -digi
 https://itpolly.iptv.digijadoo.net/live/nick_hd/playlist.m3u8
 #EXTINF:-1 ,Nick Bangla
 http://103.115.159.69:25461/live/asifmtbsl/asifmtbsl/87.m3u8
-#EXTINF:-1 ,Nick Sonic Bangla
+#EXTINF:-1 ,Nick Sonic Bangla -digi-edg
 https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1 ,Nick JR.
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:-1 ,9xm
+http://103.205.133.14/hls/9xm.m3u8
+#EXTINF:-1 ,8xm
+https://playlive.goonj.pk/8xmweb_480p/index.m3u8
+#EXTINF:-1 ,Dhoom Music -digi-edg
+https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
 #EXTINF:-1 ,IN: Star Movie HD
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 ,IN: SONY SIX HD
@@ -159,6 +173,8 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=e
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 ,IN: SONY YAY
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:-1 ,PTV Sports
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
 #EXTINF:-1 ,IN: SONY TEN 3 HD
 http://175.41.46.16:8081/hls/8.m3u8
 #EXTINF:-1 ,IN: SONY TEN 3
@@ -243,6 +259,10 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 http://tv.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:-1 ,HBO HD
 http://tv.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1 ,MNX
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+#EXTINF:-1 ,Maccu- Lotus-digi
+https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 ,Colors Infinity HD
 http://tv.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1 ,Nick HD
@@ -262,7 +282,11 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 ,National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 ,Nat Geo Wild (Asia)
-http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.
+#EXTINF:-1 ,Roemdy
+http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
+#EXTINF:-1 ,Hits
+http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF:-1 ,D sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 ,NetGeo People
