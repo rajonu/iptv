@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,dflix
-http://tvserver.dflix.live:8082/1/index.m3u8
 #EXTINF:-1 ,Jamuna TV
 http://tv.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,Jamuna TV
@@ -33,6 +31,8 @@ https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 http://tv.ebox.live:8080/live/boishakhi.m3u8
 #EXTINF:-1 ,Boishakhi TV-digi
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+#EXTINF:-1 ,Ekattor TV-ibox
+http://103.135.208.14/live/ibox/bd/88.m3u8
 #EXTINF:-1 ,Ekattor TV-ebox
 http://tv.ebox.live:8080/live/ekattor1.m3u8
 #EXTINF:-1 ,Ekattor TV-digi
