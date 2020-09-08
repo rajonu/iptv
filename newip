@@ -1380,6 +1380,86 @@ http://robi.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="JADOO LIVE",JD_PTV Global
 http://robi.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
 
+#EXTINF:-1 group-title="Ebox",Jamuna TV 
+http://tv.ebox.live:8080/live/ex-jamuna.m3u8
+#EXTINF:-1 group-title="Ebox",Channel24 
+http://tv.ebox.live:8080/live/ch24youtube.m3u8
+#EXTINF:-1 group-title="Ebox",Gazi tv
+http://tv.ebox.live:8080/live/gazi-tv.m3u8
+#EXTINF:-1 group-title="Ebox",Bangla Vision
+http://tv.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 group-title="Ebox",ATN Bangla
+http://tv.ebox.live:8080/live/ex-atnbd1.m3u8
+#EXTINF:-1 group-title="Ebox",Channel I
+http://tv.ebox.live:8080/live/ex-chi.m3u8
+#EXTINF:-1 group-title="Ebox",RTV
+http://tv.ebox.live:8080/live/ex-rtv.m3u8
+#EXTINF:-1 group-title="Ebox",Boishakhi Television
+http://tv.ebox.live:8080/live/ex-boishakhi.m3u8
+#EXTINF:-1 group-title="Ebox",Ekattor TV
+http://tv.ebox.live:8080/live/ekattor1.m3u8
+#EXTINF:-1 group-title="Ebox",News 24 HD
+http://tv.ebox.live:8080/live/ex-news24.m3u8
+#EXTINF:-1 group-title="Ebox",DBC News
+http://tv.ebox.live:8080/live/dbc.m3u8
+#EXTINF:-1 group-title="Ebox",ATN News
+http://tv.ebox.live:8080/live/ex-atnae.m3u8
+#EXTINF:-1 group-title="Ebox",Gaan Bangla 
+http://tv.ebox.live:8080/live/ex-gan.m3u8
+#EXTINF:-1 group-title="Ebox",Maasranga TV 
+http://tv.ebox.live:8080/live/maasranga.m3u8
+#EXTINF:-1 group-title="Ebox",Channel9 
+http://tv.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1 group-title="Ebox",Zee Bangla 
+http://tv.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF:-1 group-title="Ebox",Sony Six
+http://tv.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1 group-title="Ebox",SonyTen
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1 group-title="Ebox",SonyTen-3 HD
+http://tv.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1 group-title="Ebox",Star Jalsha
+http://tv.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1 group-title="Ebox",Star Jalsha Movie
+http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 group-title="Ebox",Colors Bangla
+http://tv.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 group-title="Ebox",Star Plus HD
+http://tv.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 group-title="Ebox",Zee TV HD
+http://tv.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 group-title="Ebox",Colors HD
+http://tv.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 group-title="Ebox",Sony HD
+http://tv.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 group-title="Ebox",Sony SAB HD
+http://tv.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1 group-title="Ebox",Star Gold Select
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:-1 group-title="Ebox",Zee Cinema HD
+http://tv.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 group-title="Ebox",Zee Cinema Bangla
+http://tv.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF:-1 group-title="Ebox",Sony Max HD
+http://tv.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1 group-title="Ebox",Sony Max2 HD
+http://tv.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF:-1 group-title="Ebox",Star Movies HD 
+http://tv.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 group-title="Ebox",Sony PIX HD
+http://tv.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 group-title="Ebox",HBO HD
+http://tv.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1 group-title="Ebox",Colors Infinity HD
+http://tv.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:-1 group-title="Ebox",Nick HD
+http://tv.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1 group-title="Ebox",Animal Planet HD 
+http://tv.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1 group-title="Ebox",National Geography HD
+http://tv.ebox.live:8080/live/natg.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Dflix",Jamuna TV
 http://tv.dflix.live:8082/13/index.m3u8?token=a4a67bc37320419f2bb3549ef60593ed385e39a4-ddcff2cc5af636ca97bb21ba9d163a55-1599559259-1599548459&remote=59.153.101.89
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="Dflix",Star Gold HD
